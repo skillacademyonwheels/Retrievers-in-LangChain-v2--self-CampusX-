@@ -1,0 +1,52 @@
+# LangChain Core
+langchain
+langchain-core
+
+# OpenAI Integration
+# langchain-openai
+# openai
+
+# Anthropic Integration
+# langchain-anthropic
+
+# Google Gemini (PaLM) Integration
+# langchain-google-genai
+# google-generativeai
+
+# Hugging Face Integration
+langchain-huggingface
+# transformers
+huggingface-hub
+
+# Environment Variable Management
+python-dotenv
+
+# Data Validation (used by PydanticOutputParser schemas)
+pydantic
+
+# Machine Learning Utilities
+# numpy
+# scikit-learn
+
+## pytorch for Hugging Face models
+# torch
+
+## For sentence embeddings
+# sentence-transformers
+
+## streamlit
+streamlit
+
+## For visualization of Runnable graphs
+grandalf
+
+# langchain-community
+langchain-community
+beautifulsoup4
+
+## PDF Loader
+pypdf
+
+## Vector Stores
+chromadb
+langchain-chroma
